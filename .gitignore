@@ -1,0 +1,21 @@
+
+
+# Локальные файлы
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+*credentials*.json
+*token*.json
+client_secret*.json
+*.pem
+*.key
+.classroom-browser/
+Импорт Classroom/
+Тетрадь/
+
+*.docx
+*.pdf
+Проверка/
+Отчёт.md
